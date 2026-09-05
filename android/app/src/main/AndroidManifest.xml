@@ -3,7 +3,7 @@
     <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/>
 
     <application
-        android:label="DeskDash"
+        android:label="DeskDash Up"
         android:name="${applicationName}"
         android:icon="@mipmap/launcher_icon">
         <activity
